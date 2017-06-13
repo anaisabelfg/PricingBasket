@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Half Price Third Product",
+    "products": [
+      "cereal",
+      "cereal",
+      "milk"
+    ]
+  },
+  {
+    "name": "2 for 2£",
+    "products": [
+      "cereal"
+    ]
+  },
+  {
+    "name": "3 for 2",
+    "products": [
+      "milk"
+    ]
+  },
+  {
+    "name": "Discount 50%",
+    "products": [
+      "chips"
+    ]
+  }
+]

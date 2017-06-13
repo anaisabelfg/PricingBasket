@@ -1,0 +1,58 @@
+[
+  {
+    "name": "cereal",
+    "price": 1.50
+  },
+  {
+    "name": "washing-up liquid",
+    "price": 2.00
+  },
+  {
+    "name": "cereal",
+    "price": 1.50
+  },
+  {
+    "name": "cereal",
+    "price": 1.50
+  },
+  {
+    "name": "washing-up liquid",
+    "price": 2.00
+  },
+  {
+    "name": "bread",
+    "price": 1.25
+  },
+  {
+    "name": "bread",
+    "price": 1.50
+  },
+  {
+    "name": "milk",
+    "price": 1.25
+  },
+  {
+    "name": "bread",
+    "price": 1.50
+  },
+  {
+    "name": "milk",
+    "price": 1.00
+  },
+  {
+    "name": "olives",
+    "price": 1.75
+  },
+  {
+    "name": "olives",
+    "price": 1.80
+  },
+  {
+    "name": "chips",
+    "price": 1.50
+  },
+  {
+    "name": "chips",
+    "price": 1.25
+  }
+]
